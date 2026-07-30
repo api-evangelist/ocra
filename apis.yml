@@ -6,7 +6,18 @@ description: >-
   in RFC 6287. It extends HOTP and TOTP with challenge-response capabilities
   for stronger authentication scenarios.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/ocra.png
 tags:
   - Authentication
   - OCRA
